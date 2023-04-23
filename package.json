@@ -1,5 +1,5 @@
 {
-  "name": "react-boilerplate",
+  "name": "react-portfolio",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -7,8 +7,14 @@
     "build": "react-scripts build"
   },
   "dependencies": {
+    "@emotion/react": "^11.10.6",
+    "@emotion/styled": "^11.10.6",
+    "@mui/icons-material": "^5.11.16",
+    "@mui/material": "^5.12.1",
+    "framer-motion": "^10.12.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-router-dom": "^6.10.0",
     "react-scripts": "^5.0.1"
   },
   "devDependencies": {
